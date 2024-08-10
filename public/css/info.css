@@ -1,0 +1,11 @@
+.cardhov:hover{
+    background: linear-gradient(to right, #ccdfff, #b8f97a);
+    transition:background 500ms;
+
+
+}
+
+/* .navhov:hover{
+    background-color: rgba(156, 228, 61, 0.979);
+
+} */
